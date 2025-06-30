@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74984151796",
+    "project_id": "fir-app-2105",
+    "storage_bucket": "fir-app-2105.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74984151796:android:7bbe3f7fb05b092d8f1ca1",
+        "android_client_info": {
+          "package_name": "com.example.castspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdCdHhM6NTyWDbXrypXAk44MFSMPTJuPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74984151796:android:b3e26190b6175d718f1ca1",
+        "android_client_info": {
+          "package_name": "com.example.sqlite_chia_wilsen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdCdHhM6NTyWDbXrypXAk44MFSMPTJuPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
